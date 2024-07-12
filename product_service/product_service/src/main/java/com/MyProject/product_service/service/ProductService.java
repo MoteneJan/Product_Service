@@ -54,4 +54,8 @@ public class ProductService {
     public Product getProductById(Long id) {
         return null;
     }
+
+
+    public void deleteProduct(Long id) {
+    }
 }
